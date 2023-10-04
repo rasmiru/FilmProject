@@ -2,6 +2,10 @@
 
 Welcome to the Film Project Movie-App React JS project! This web application allows you to browse and discover movies from The Movie Database (TMDb) using the TMDb API. In this README, you will find instructions on how to set up and run the project, as well as how to configure your environment to use the TMDb API.
 
+![Alt text](assets/movie-app-ui.png)
+![Alt text](assets/movie-app-ui-2.png)
+![Alt text](assets/movie-app-ui-3.png)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
